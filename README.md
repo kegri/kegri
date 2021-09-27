@@ -9,7 +9,7 @@
 
 - 🌱 Şu an **JavaScript ve Python dillerini öğreniyorum**
 
-- 📫 Bana nasıl mı ulaşabilirsiniz? **kegrine@hotmail.com**
+- 📫 Bana nasıl mı ulaşabilirsiniz? **root@kegrine.rocks**
 
 - ⚡ Fun fact **Hiçbir şeyden anlamıyorum**
 
