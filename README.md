@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kegri" alt="kegri" /></a> </p>
 
-- 🔭 Şu an **Matsurari üzerinde çalışıyorum**
+- 🔭 Şu an **ROMance üzerinde çalışıyorum**
 
 - 🌱 Şu an **JavaScript ve Python dillerini öğreniyorum**
 
