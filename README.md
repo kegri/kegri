@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my school projects.<br>📖I'm studying on Java and Python.<br>🤝I can help you on your HTML projects.<br>⚡Fun fact<br>the Creeper Program was the first ever virus ever made.
+🔭I'm currently working on my school projects.<br>📖I'm studying on Java and Python.<br>🤝I can help you on your HTML projects.<br>⚡Fun fact<br>the Creeper Program was the first virus ever made.
 
 
 ## 🌐 Socials:
