@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭I'm currently working on my school projects.<br>📖I'm studying on Java and Python.<br>🤝I can help you on your HTML projects.<br>⚡Fun fact<br>the Creeper Program was the first virus ever made.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndco0dw6ffhwltl440pjw32gs&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ndco0dw6ffhwltl440pjw32gs&redirect=true)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shimijda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/çağrı-himmetoğlu-961a96253) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rydolian) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kegrinewashere) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kegrined) 
