@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭I'm currently working on my school projects.<br>📖I'm studying on Java and Python.<br>🤝I can help you on your HTML projects.<br>⚡Fun fact<br>the Creeper Program was the first virus ever made.
+🔭I'm Çağrı Himmetoğlu. Known as Kegri, on the planet called internet.<br>
+I'm a Senior Developer, Backend Developer and former Pentester, Freelancer, English to Turkish Translator. I'm currently studying Computer Engineering / Science.<br>
+Feel free to ask for help on any language that you see on this README.<br>
+Thanks for visiting.<br>
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndco0dw6ffhwltl440pjw32gs&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ndco0dw6ffhwltl440pjw32gs&redirect=true)
 
@@ -16,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kegri&icon=0&color=0)](https://visitcount.itsvg.in)
