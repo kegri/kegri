@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭I'm Çağrı Himmetoğlu. Known as Kegri, on the planet called internet.<br>
-I'm a Senior Developer, Backend Developer and former Pentester, Freelancer, English to Turkish Translator. I'm currently studying Computer Engineering / Science.<br>
+I'm a Senior Developer, Backend Developer and former Pentester, Freelancer, English/German to Turkish Translator. I'm currently studying Computer Engineering / Science.<br>
+I have knowledges about German, English and of course Turkish language and I can help you on these languages.<br>
 Feel free to ask for help on any language that you see on this README.<br>
 Thanks for visiting.<br>
 
